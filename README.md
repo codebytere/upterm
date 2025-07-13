@@ -175,7 +175,7 @@ Heroku offers [free Dyno hours](https://www.heroku.com/pricing) which should be 
 
 You can deploy with one click of the following button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/codebytere/upterm)
 
 You can also automate the deployment with [Heroku Terraform](https://devcenter.heroku.com/articles/using-terraform-with-heroku).
 The Heroku Terraform scripts are in the [terraform/heroku folder](./terraform/heroku).

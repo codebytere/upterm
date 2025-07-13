@@ -9,7 +9,7 @@
     "website": "https://upterm.dev",
     "success_url": "/getting-started",
     "description": "Secure Terminal Sharing",
-    "repository": "https://github.com/owenthereal/upterm",
+    "repository": "https://github.com/codebytere/upterm",
     "buildpacks": [
         {
             "url": "heroku/go"
